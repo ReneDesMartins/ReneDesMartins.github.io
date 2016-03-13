@@ -30,9 +30,9 @@ h1, h2, h3 {
     border-bottom: 3px solid #444444;
     text-align: center;
     margin: 0px;
-    padding: 0px;
     border-top: 3px solid #444444;
     padding-top: 0.5%;
+    padding-bottom: 0.5%;
 }
 
 /*Headers' individual formatting*/
