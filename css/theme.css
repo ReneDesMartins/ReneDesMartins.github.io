@@ -63,10 +63,9 @@ h3 {
 #bar a {
   font-family: helvetica;
   font-size: 20px;
+  padding-top: 500%;
   margin-left: 2.5%;
   margin-right: 2.5%;
-  margin-top: 2.5%;
-  margin-bottom: 2.5%;
   text-decoration: none;
   color: rebeccapurple;
 }
