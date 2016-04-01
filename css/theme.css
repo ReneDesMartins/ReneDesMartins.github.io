@@ -37,13 +37,11 @@ body {
 
 h1, h2, h3 {
     font-family: helvetica;
-    margin-top: 1%;
 }
 
 /*Headers' individual formatting*/
 
 h1 {
-    border-top: 3px solid #444444;
     font-size: 50px;
     padding-top: 0.5%;
 }
