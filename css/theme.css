@@ -60,6 +60,10 @@ h3 {
 }
 
 #bar #link {
+  display: inline-block;
+}
+
+#bar #link a {
   font-family: helvetica;
   font-size: 20px;
   padding-top: 0.5%;
