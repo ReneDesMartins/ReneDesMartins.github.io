@@ -56,13 +56,14 @@ h3 {
 
 #bar {
   background-color: grey;
-  height: 35px;
+  height: 75px;
   text-align: center;
 }
 
 #bar a {
   font-family: helvetica;
   font-size: 20px;
+  margin-top: 0.5%;
   margin-left: 2.5%;
   margin-right: 2.5%;
   text-decoration: none;
