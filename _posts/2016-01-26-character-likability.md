@@ -13,23 +13,13 @@ tags:
 
 > – *Fenimore Cooper's Literary Offences*, Mark Twain
 
-How do you make a character likable? And more importantly, why do you *actually* need a guide in order to make your characters likable? Those are the questions I aim to address today, for you, the reader of this blog. Let's begin with the more pressing question - why would you need a guide to make your characters likable? I've identified three main problems:
+How do you make a character likable? And more importantly, why do you *actually* need a guide in order to make your characters likable? Those are the questions I aim to address today, for you, the reader. Let's begin with the more pressing question - why would you need a guide to make your characters likable? I've identified three main problems:
 
 1. The premise
 2. Their personalities
 3. Your perspective
 
 ### 1. The Premise
-While I don't believe that a stupid-sounding premise will always give you a bad story (hell, *Mortal Engines*' premise can be described as "Cities what eat other cities"), there are *definitely* premises bad enough to ruin your characters. If your premise breaks apart at the slightest touch of logic, you should probably go back to the writing board. Consider the following:
+While I don't believe that a stupid-sounding premise will always give you a bad story (hell, *Mortal Engines*' premise can be described as "Cities what eat other cities"), there are *definitely* premises bad enough to ruin your characters. If your premise breaks apart at the slightest touch of logic, you should probably go back to the writing board. If your premise can all-too-easily be read as a thinly veiled sexual fantasy, you should probably go back to the writing board. If your premise gets you stuck in a corner with no narrative drive, you *definitely* have to go back to the writing board. Here's what I mean when I say that - if you can't think of anything to *do* with your characters, you'll end up with 100% filler. Which is sort of like having a sandwich with mayonnaise and nothing else - disgusting, unhealthy and probably should be thrown away.
 
-> Let's say that the Universe is controlled by a bureaucratic system of angels. – an enthusiastic guy
-
-Well, that sounds good so far. You've got a lot of space to move in terms of the premise and what you could do with it (religious satire, Brazil-style satire of bureaucracy). Keep goin'...
-
-> So everyone's life is determined by the filing system in these offices...
-
-Oh, great! It is going to be a bureaucratic satire!
-
-> ...and one angel misfiles this guy's file from the Male cabinet to the Female cabinet.
-
-Wait, so that would mean that his gender is switched. Which would mean that of course, 
+### 2. Their 
