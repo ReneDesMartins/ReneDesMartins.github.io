@@ -37,7 +37,7 @@ body {
 
 h1, h2, h3 {
     font-family: helvetica;
-    margin-top: 0.5%;
+    padding-top: 0.5%;
 }
 
 /*Headers' individual formatting*/
