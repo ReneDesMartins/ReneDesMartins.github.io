@@ -56,14 +56,12 @@ h3 {
 
 #bar {
   background-color: darkgray;
-  height: 75px;
 }
 
 #bar #link {
   display: inline-block;
-}
-
-#bar #link a {
+  width: 5%;
+  height: 5%;
   font-family: helvetica;
   font-size: 20px;
   padding-top: 0.5%;
