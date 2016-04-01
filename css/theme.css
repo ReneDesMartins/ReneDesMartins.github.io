@@ -60,7 +60,7 @@ h3 {
   text-align: center;
 }
 
-#bar a {
+#bar > a {
   font-family: helvetica;
   font-size: 20px;
   padding-top: 0.5%;
