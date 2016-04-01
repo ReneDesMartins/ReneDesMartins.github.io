@@ -25,16 +25,6 @@ body {
     margin-right: 1%;
 }
 
-#title {
-  font-family: helvetica;
-  border-bottom: 3px solid #444444;
-  text-align: center;
-  margin-top: 0.3%;
-  border-top: 3px solid #444444;
-  padding-top: 0.5%;
-  padding-bottom: 0.3%;
-}
-
 h1, h2, h3 {
     font-family: helvetica;
 }
