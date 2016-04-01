@@ -1,2 +1,8 @@
 name: Artstentatious
+
 markdown: kramdown
+kramdown:
+  input: GFM
+
+
+paginate: 15
