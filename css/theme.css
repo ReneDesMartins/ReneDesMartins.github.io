@@ -37,7 +37,6 @@ h1, h2, h3 {
 
 h1 {
     font-size: 50px;
-    padding-top: 0.5%;
 }
 
 h2 {
@@ -46,12 +45,11 @@ h2 {
 
 h3 {
     font-size: 20px;
-    padding-bottom: 0.3%;
 }
 
 /*The link bar*/
 
-.bar {
+#bar {
   background-color: grey;
   margin-bottom: 1%;
   height: 7.5%;
@@ -59,7 +57,7 @@ h3 {
   padding-top: 1.5%;
 }
 
-.bar a {
+#bar a {
   font-family: helvetica;
   font-size: 20px;
   margin-left: 2.5%;
