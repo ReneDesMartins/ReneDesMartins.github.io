@@ -54,13 +54,13 @@ h3 {
 
 /*The link bar*/
 
-.bar {
+#bar {
   background-color: grey;
   height: 75px;
   text-align: center;
 }
 
-.bar a {
+#bar a {
   font-family: helvetica;
   font-size: 20px;
   padding-top: 0.5%;
